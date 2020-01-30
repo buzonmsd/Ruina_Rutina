@@ -1,0 +1,25 @@
+body {
+      cursor: crosshair;
+ background-color: white;
+      background-size: contain;
+      background-position: center center;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-size: cover;
+      height: 100%;
+      width: 300%;;
+      display: inline-table;
+}
+
+
+.sketchfab-embed-wrapper-1{
+  position: absolute; left: 15px; top: 20px;
+}
+
+.sketchfab-embed-wrapper-2{
+  position: absolute; left: 70em; top: 10em;
+}
+
+.sketchfab-embed-wrapper-3{
+  position: absolute; left: 1600px; top: 1.5em;
+}
